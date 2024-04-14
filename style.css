@@ -1,61 +1,70 @@
 body {
     font-family: "Anta", sans-serif;
-}
-
-.nav-link {
+  }
+  
+  .nav-link {
     font-weight: bold;
     font-size: 22px;
     margin-right: 10px;
-}
-
-.navbar-brand {
+  }
+  
+  .navbar-brand {
     margin-left: 20px;
-}
-
-.form {
+  }
+  
+  .form {
     padding-top: 40px;
     padding-bottom: 20px;
-}
-
-.card {
+  }
+  
+  .card {
     border-radius: 40px;
     margin: auto;
     padding: 10px 10px 0px 10px;
-}
-
-.far {
+  }
+  
+  .far {
     padding-bottom: 10px;
-}
-
-.invalid-feedback,
-.form-check-label,
-.valid-feedback {
+  }
+  
+  .invalid-feedback,
+  .form-check-label,
+  .valid-feedback {
     font-weight: bold;
-}
-
-.btn-primary {
+  }
+  
+  .btn-primary {
     background-color: #3aa35d;
     border-color: #3aa35d;
-}
-
-.btn-secondary {
+  }
+  
+  .btn-secondary {
     background-color: #3aa35d;
     border-color: #3aa35d;
-}
-
-.carousel {
+  }
+  
+  .carousel {
     border-radius: 40px;
     padding-top: 20px;
     padding-bottom: 20px;
-}
-
-.btn.btn-primary:hover,
-.btn.btn-primary:focus,
-.btn.btn-primary:active,
-.btn.btn.btn-primary:active {
+  }
+  
+  .btn.btn-primary:hover,
+  .btn.btn-primary:focus,
+  .btn.btn-primary:active,
+  .btn.btn.btn-primary:active {
     color: #fff;
     background-color: #3aa35d;
     /* cor de fundo do botão */
     border-color: #3aa35d;
     /* cor da borda do botão */
-}
+  }
+  
+  .card-rounded {
+    padding: 0;
+  
+    .rounded {
+      border-radius: 2.25rem !important;
+    }
+  }
+  
