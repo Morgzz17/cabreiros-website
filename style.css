@@ -59,7 +59,9 @@ body {
     border-color: #3aa35d;
     /* cor da borda do botão */
   }
-  
+  .card-player-more-info-container{
+    padding: 8px;
+  }
   .card-rounded {
     padding: 0;
   
