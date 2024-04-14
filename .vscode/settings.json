@@ -1,4 +1,4 @@
 {
     "editor.formatOnSave": true,
-    "livePreview.defaultPreviewPath": "/inicio.html"
+    "livePreview.defaultPreviewPath": "/index.html"
 }
