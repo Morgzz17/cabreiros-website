@@ -31,16 +31,6 @@ body > .container {
   padding-left: 15px;
 }
 
-@media (min-width: 768px) {
-  .footer {
-    position: fixed;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    z-index: 1030;
-  }
-}
-
 .main {
   height: auto;
   min-height: 100%;
